@@ -1,17 +1,17 @@
 # Requirements (Skills)
 
 | Technology         | Backend/Frontend | Current/Future | offsite team | must |
-| ------------------ | :--------------: | :------------: | :----------: | ---- |
-| Java               |       back       |    current     |      X       | X    |
-| Kotlin             |       back       |    current     |      X       | X    |
-| Spring Boot        |       back       |    current     |      X       | X    |
-| Rest API           |       back       |    current     |      X       | X    |
-| React              |      front       |    current     |      X       | X    |
-| Typescript         |      front       |    current     |      X       | X    |
-| Git                |    front-back    |    current     |      X       | X    |
-| Azure Architecture |      DevOps      |    current     |              | X    |
-| Azure Pipelines\*  |      DevOps      |    current     |              | X    |
-| Gradle             |      DevOps      |    current     |              | X    |
+| ------------------ | :--------------: | :------------: | :----------: | :--: |
+| Java               |       back       |    current     |      X       |  X   |
+| Kotlin             |       back       |    current     |      X       |  X   |
+| Spring Boot        |       back       |    current     |      X       |  X   |
+| Rest API           |       back       |    current     |      X       |  X   |
+| React              |      front       |    current     |      X       |  X   |
+| Typescript         |      front       |    current     |      X       |  X   |
+| Git                |    front-back    |    current     |      X       |  X   |
+| Azure Architecture |      DevOps      |    current     |              |  X   |
+| Azure Pipelines\*  |      DevOps      |    current     |              |  X   |
+| Gradle             |      DevOps      |    current     |              |  X   |
 | Terraform          |      DevOps      |    current     |              |      |
 | Azure networking\* |      DevOps      |    current     |              |      |
 | Azure security\*   |      DevOps      |    current     |              |      |
