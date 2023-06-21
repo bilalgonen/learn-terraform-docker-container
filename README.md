@@ -1,16 +1,27 @@
 # Requirements (Skills)
 
-- Java
-- Kotlin
-- Spring Boot
-- Rest API
-- Gradle build system
-- Git (Modern software development version control)
-- Good experience with Cloud Architecture (Azure preferred)
-- Kubernetes clusters, Docker, Azure Container Apps
-- React
-- Typescript
-- Terraform
+| Technology         | Backend/Frontend | Current/Future | offsite team |
+| ------------------ | :--------------: | :------------: | :----------: |
+| Java               |       back       |    current     |      X       |
+| Kotlin             |       back       |    current     |      X       |
+| Spring Boot        |       back       |    current     |      X       |
+| Rest API           |       back       |    current     |      X       |
+| React              |      front       |    current     |      X       |
+| Typescript         |      front       |    current     |      X       |
+| Git                |    front-back    |    current     |      X       |
+| Gradle             |      DevOps      |    current     |              |
+| Azure Architecture |      DevOps      |    current     |              |
+| Terraform          |      DevOps      |    current     |              |
+| Azure Pipelines\*  |      DevOps      |    current     |              |
+| Azure networking\* |      DevOps      |    current     |              |
+| Azure security\*   |      DevOps      |    current     |              |
+| Kubernetes         |      DevOps      |     future     |              |
+
+---
+
+\* Asterisks in the cells above indicate that there are more details below.
+
+---
 
 # Essential Functions for DevOps
 
